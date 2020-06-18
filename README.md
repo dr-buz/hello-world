@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello cyber criminals. Stop accessing files you shouldn't be looking at.
